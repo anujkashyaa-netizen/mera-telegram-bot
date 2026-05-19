@@ -1,1 +1,3 @@
-
+pyrogram
+gtts
+python-telegram-bot
